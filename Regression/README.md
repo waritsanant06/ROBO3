@@ -3,21 +3,14 @@
 This repository contains a few regression techniques predicting dependent variables from the housing.csv file. Dataset provided from https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
 
 
-Purpose
+# Purpose
 
-The purpose of this project is to demonstrate how different regression models can be implemented and compared for the task of predicting a dependent variable from multiple independent variables.
-
-
-Content
-
-housing.csv
-
-README.md
-
-BostonHousing.ipynb
+The purpose of this tasks is to demonstrate different linear regression model, finding which one is the best.
 
 
-Dependencies
+
+
+'Dependencies'
 
 Python 3
 
@@ -32,4 +25,4 @@ matplotlib
 seaborn
 
 
-Made by Siraphop Wannasanmethar 6538213421
+''Made by Waritsanant Rattanachaipong 6538186121''
