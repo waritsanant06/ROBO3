@@ -22,4 +22,4 @@ The purpose of this tasks is to demonstrate different linear regression model, f
 - seaborn
 
 
-## Made by Waritsanant Rattanachaipong 6538186121
+**Made by Waritsanant Rattanachaipong 6538186121**
